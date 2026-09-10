@@ -1,2 +1,15 @@
-# adobe-toolbox
-An index of small plugins and scripts for Adobe applications, each kept in its own repo.
+# Adobe Toolbox
+
+An index of small plugins and scripts for Adobe applications. Each one lives in
+its own repository — this one just links them, so nothing here needs merging
+or a shared build.
+
+| Repo | Application(s) | Type | What it does |
+|---|---|---|---|
+| [Abode Night View](https://github.com/VulpesNexus/abode-night-view) | Photoshop, Illustrator, InDesign | script | Dims the document canvas without touching the interface, the color, or the file. |
+| [Subgroup](https://github.com/VulpesNexus/illustrator-subgroup) | Illustrator | plugin | Nests groups and aligns inside them, in the cases Illustrator declines to. |
+
+This list grows as new repos are published, or as existing private ones go
+public. Every repo here also carries `adobe` plus its own app and
+`plugin`/`script` topics, so [topic:adobe](https://github.com/search?q=topic%3Aadobe+user%3AVulpesNexus&type=repositories)
+finds the same set.
