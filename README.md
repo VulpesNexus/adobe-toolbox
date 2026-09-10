@@ -6,7 +6,7 @@ or a shared build.
 
 | Repo | Application(s) | Type | What it does |
 |---|---|---|---|
-| [Abode Night View](https://github.com/VulpesNexus/abode-night-view) | Photoshop, Illustrator, InDesign | script | Dims the document canvas without touching the interface, the color, or the file. |
+| [Abode Night View](https://github.com/VulpesNexus/abode-night-view) | Acrobat, Illustrator, InCopy, InDesign, Photoshop | script | Dims the document canvas without touching the interface, the color, or the file. |
 | [Subgroup](https://github.com/VulpesNexus/illustrator-subgroup) | Illustrator | plugin | Nests groups and aligns inside them, in the cases Illustrator declines to. |
 
 This list grows as new repos are published, or as existing private ones go
