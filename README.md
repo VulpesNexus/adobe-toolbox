@@ -1,8 +1,6 @@
 # Adobe Toolbox
 
-An index of small utilities, plugins, and scripts for Adobe applications. Each one lives in
-its own repository — this one just links them, so nothing here needs merging
-or a shared build.
+An index of small utilities, plugins, and scripts for Adobe applications. Each one lives in its own repository — this one just links them, so nothing here needs merging or a shared build.
 
 ## Utilities
 | Repo | Applications | What it does |
@@ -12,9 +10,7 @@ or a shared build.
 ## Enhancements
 | Repo | Application | Type | What it does |
 |---|---|---|---|
+| [Rastrokizer](https://github.com/VulpesNexus/rastrokizer) | Photoshop | script | Moves a group's Outside stroke onto its own layer, faithfully, where *Create Layers* doubles and clips it. |
 | [Subgroup](https://github.com/VulpesNexus/illustrator-subgroup) | Illustrator | plugin | Nests groups and aligns inside them, in the cases Illustrator declines to. |
 
-This list grows as new repos are published, or as existing private ones go
-public. Every repo here also carries `adobe` plus its own app and
-`utility`/`plugin`/`script` topics, so [topic:adobe](https://github.com/search?q=topic%3Aadobe+user%3AVulpesNexus&type=repositories)
-finds the same set.
+This list grows as new repos are published, or as existing private ones go public. Every repo here also carries `adobe` plus its own app and `utility`/`plugin`/`script` topics, so [topic:adobe](https://github.com/search?q=topic%3Aadobe+user%3AVulpesNexus&type=repositories) finds the same set.
