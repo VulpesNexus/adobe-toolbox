@@ -11,6 +11,6 @@ An index of small utilities, plugins, and scripts for Adobe applications. Each o
 | Repo | Application | Type | What it does |
 |---|---|---|---|
 | [Rastrokizer](https://github.com/VulpesNexus/rastrokizer) | Photoshop | script | Moves a group's outside stroke onto its own layer, faithfully, where *Create Layers* doubles and clips it. |
-| [Subgroup](https://github.com/VulpesNexus/illustrator-subgroup) | Illustrator | plugin | Nests groups and aligns inside them, in the cases Illustrator declines to. |
+| [Subgroup](https://github.com/VulpesNexus/subgroup) | Illustrator | plugin | Nests groups and aligns inside them, in the cases Illustrator declines to. |
 
 This list grows as new repos are published, or as existing private ones go public. Every repo here also carries `adobe` plus its own app and `utility`/`plugin`/`script` topics, so [topic:adobe](https://github.com/search?q=topic%3Aadobe+user%3AVulpesNexus&type=repositories) finds the same set.
