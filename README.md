@@ -10,6 +10,7 @@ An index of small utilities, plugins, and scripts for Adobe applications. Each o
 ## Enhancements
 | Repo | Application | Type | What it does |
 |---|---|---|---|
+| [FreeDistort+](https://github.com/VulpesNexus/freedistortplus) | Illustrator | plugin | Edits *Free Distort*'s corners on the artwork itself, with exact numbers, snapping, and *Free Transform*'s keys, where Adobe's dialog offers a thumbnail and whole points. |
 | [LiveShear](https://github.com/VulpesNexus/liveshear) | Illustrator | plugin | Shears artwork from the *Appearance* panel, the one affine transform Illustrator's *Transform* effect leaves out. |
 | [Rastrokizer](https://github.com/VulpesNexus/rastrokizer) | Photoshop | script | Moves a group's outside stroke onto its own layer, faithfully, where *Create Layers* doubles and clips it. |
 | [Subgroup](https://github.com/VulpesNexus/subgroup) | Illustrator | plugin | Nests groups and aligns inside them, in the cases Illustrator declines to. |
